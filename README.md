@@ -12,3 +12,11 @@ Also please check to see if the following packages are installed
 
 Cinemachine
 Visual Scripting 
+
+
+
+
+
+IF YOU CANNOT OPEN YOUR PROJECT PLEASE TAKE A LOOK AT THIS FORUM POST TO RESOLVE THIS ISSUE
+
+https://support.unity.com/hc/en-us/articles/211438683-How-do-I-activate-my-license-
